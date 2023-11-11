@@ -1,4 +1,4 @@
-# Video--MP3-MicroServices
+# VideoToMP3-MicroServices
 Video to MP3 Converter
 I wanted some experience with micro services so I made this video to MP3 player hosted on a local Kubernetes cluster (Minikube).
 
