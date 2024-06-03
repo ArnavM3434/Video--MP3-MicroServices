@@ -8,6 +8,5 @@ Technologies I used include Docker, Kubernetes, Flask, MongoDB, RabbitMQ, MySQL,
 There is a service for authorization, a service for gateway (what the user interacts with), a service for the actual video to MP3 conversion, a queue service, and a notification service.
 
 
-CREDIT: https://www.youtube.com/watch?v=hmkF77F9TLw
 
 
